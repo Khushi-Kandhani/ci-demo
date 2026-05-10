@@ -1,7 +1,5 @@
  # CI/CD Pipeline Demo 🚀
-
-![CI](https://github.com/Khushi-Kandhani/ci-demo/actions/workflows/ci.yml/badge.svg)
-
+ 
 A simple FastAPI application with a fully automated CI/CD pipeline using GitHub Actions.
 
 ## 📁 Project Structure
